@@ -8,4 +8,7 @@ COPY . .
 RUN pip install --no-cache-dir --upgrade pip \
  && pip install --no-cache-dir -r requirements.txt
 
+ # Expose port Chainlit will use
+EXPOSE 8000
+
  CMD ["chainlit", "run", "app.py", "--port", "8000", "--host", "0.0.0.0"]
