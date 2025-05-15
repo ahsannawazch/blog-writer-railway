@@ -1,3 +1,4 @@
+mem0-ai
 pydantic-ai
 chainlit
 pydantic
@@ -7,4 +8,3 @@ tavily-python
 python-dotenv
 typing-extensions
 langsmith
-mem0-ai
