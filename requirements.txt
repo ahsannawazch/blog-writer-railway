@@ -6,6 +6,4 @@ langgraph
 tavily-python
 python-dotenv
 typing-extensions
-langsmith  
-
- 
+langsmith
