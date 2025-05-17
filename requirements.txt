@@ -1,4 +1,4 @@
-mem0-ai
+mem0ai
 pydantic-ai
 chainlit
 pydantic
